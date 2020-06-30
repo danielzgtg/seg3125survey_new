@@ -1,0 +1,22 @@
+{
+  "runtime.js": "/runtime.4dc97dff7df499c6bc87.js",
+  "vendors.js": "/vendors.2102b520d27ec5875974.js",
+  "framework.css": "/styles/framework.101ae33d41c1230fed46.css",
+  "framework.js": "/framework.bdc0fea1d63f9ec1fa5d.js",
+  "main.css": "/styles/main.ffcb451e5be6449374cc.css",
+  "main.js": "/main.3987db7836379fb89497.js",
+  "polyfills.js": "/polyfills.5d359cf17a69287e7c65.js",
+  "results.css": "/styles/results.112303eb7f0ef9e1682b.css",
+  "results.js": "/results.1f49bfe823872596f4e2.js",
+  "theme.css": "/styles/theme.e9b28266ef21d81e8633.css",
+  "theme.js": "/theme.c7668580d690048bc1cf.js",
+  ".nojekyll": "/.nojekyll",
+  "fonts/index.scss": "/fonts/NotoSans-Regular.f70e54e4f779b7a2d3952cb882f01365.ttf",
+  "img/index.scss": "/img/inspect.e742addcca4875fcb7aae8955b92ea4c.jpg",
+  "index.html": "/index.html",
+  "polyfills.5d359cf17a69287e7c65.js.LICENSE.txt": "/polyfills.5d359cf17a69287e7c65.js.LICENSE.txt",
+  "results.ejs": "/results.ejs",
+  "sw.js": "/sw.js",
+  "thirdparty.md": "/thirdparty.md",
+  "vendors.2102b520d27ec5875974.js.LICENSE.txt": "/vendors.2102b520d27ec5875974.js.LICENSE.txt"
+}
